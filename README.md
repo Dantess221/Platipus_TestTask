@@ -23,3 +23,9 @@ Result:
 {
     "result": 4 
 }
+
+
+# Deployed in Heroku. Try:
+
+* https://platipus-test-task.herokuapp.com/Test/reverse?data=test
+* https://platipus-test-task.herokuapp.com/Test/reverse?data=16
