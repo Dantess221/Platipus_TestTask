@@ -1,7 +1,8 @@
 # Platipus_TestTask
  Completed a test task for Platipus
  
-# Тестовое задание
+<b>Тестовое задание</b>
+
 Написать Web Service с одним GET методом reverse.
 Метод принимает одним параметр data. GET: /reverse?data=test
 Если значение в параметре data число, вернуть корень от числа.
@@ -9,14 +10,15 @@
 в обратном порядке.
 Ответ вернуть в JSON формате.
 
-# Примеры: 
-GET: /reverse?data=test 
+<b>Примеры</b>
+
+* GET: /reverse?data=test 
 Result:
 { 
     "result": "tset" 
 } 
 
-GET: /reverse?data=16 
+* GET: /reverse?data=16 
 Result:
 {
     "result": 4 
